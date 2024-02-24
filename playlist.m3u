@@ -1,11 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:7
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Российские" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/323/065/8.svg", Первый HD
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/323/065/8.svg", Первый HD
 https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:0 tvg-id="stream-2" tvg-name="Stream 2" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/svg/346/480/1.svg", Россия 24
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3_1445497.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ comedy 
+https://edge01-alm.beetv.kz/bpk-token/2an@idbkmsayeirjs2utnu5l4cuyeb0iqcteinnr1iaa/btv/SWM/vip_comedy_hd/vip_comedy_hd_1080p_5000kbps.m3u8
 
-#EXTINF:0 tvg-id="stream-3" tvg-name="Stream 3" tvg-logo="https://cdn-st4.smotrim.ru/vh/pictures/svg/346/478/7.svg", Россия 1
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6_1457738.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ megahit
+https://edge01-alm.beetv.kz/bpk-token/2an@erycbpjncle2vglp1cbt0rfc4cjewiyle5uzwvba/btv/SWM/vip_megahit_hd/vip_megahit_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ serial
+https://edge04-alm.beetv.kz/bpk-token/2an@ctdgd2phoymqploeyti44hmgy5y2qza5cd2gykda/btv/SWM/vip_serial_hd/vip_serial_hd_1080p_5000kbps.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ premiere
+https://edge03-alm.beetv.kz/bpk-token/2an@cnxal1f43cmnx0bs1hl5cobwwti1fy0ocxmaqnba/btv/SWM/vip_premiere_hd/vip_premiere_hd_1080p_5000kbps.m3u8
