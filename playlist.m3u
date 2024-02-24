@@ -7,15 +7,6 @@ http://188.190.222.48/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ HD
 https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ Стиль
-https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ Сериал
-https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ Право
-https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
-
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", МАТЧ
 https://river-7-702.rutube.ru/stream/genetta-322.m9.rutube.ru/2YxYMGAtMTyLw24rxcT_mQ/1709386561/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
@@ -27,6 +18,18 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=-Y
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Пятница
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=opWqCZGycks77We083t6LQ&e=1708868563&scheme=https
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21?.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Перец
+https://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Че!
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ comedy 
 https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
