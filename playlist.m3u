@@ -5,7 +5,7 @@
 http://188.190.222.48/1_kanal_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ HD
-https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
+https://cdn.ntv.ru/ntv0_hd/rewind-7150.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", МАТЧ
 https://river-7-702.rutube.ru/stream/genetta-322.m9.rutube.ru/2YxYMGAtMTyLw24rxcT_mQ/1709386561/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
