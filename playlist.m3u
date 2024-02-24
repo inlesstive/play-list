@@ -2,19 +2,58 @@
 #EXT-X-VERSION:7
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/323/065/8.svg", Первый HD
-https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://188.190.222.48/1_kanal_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ comedy 
-https://edge01-alm.beetv.kz/bpk-token/2an@xof0ejquviter5ac0asvfkujsyvlrgjcxajbttaa/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ megahit
-https://edge01-alm.beetv.kz/bpk-token/2an@dcwsfpdaykw2nsx2iab22mfl44qqvmz1dm0jsvda/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ serial
-https://edge04-alm.beetv.kz/bpk-token/2an@1bndiu4kunar0tu2ww2m10gqivoi1acv1rsdtcca/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju+ premiere
-https://edge03-alm.beetv.kz/bpk-token/2an@ljpch4ui3j2ytnttgrznk4eo2zk0tyrhltuc2iaa/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju TV1000
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju TV1000 action
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju TV1000 Русское
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Индийское кино
+https://a.pokaz.me/128/index.m3u8?k=1708797466p621i26i851i49S316cb94dc15176c08e78b03d6ad6f873
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинокомедия
+https://a.pokaz.me/129/index.m3u8?k=1708797561p621i26i851i49S249107ca86f198ae89ca8a9144f806f6
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киномикс
+https://a.pokaz.me/181/index.m3u8?k=1708797620p621i26i851i49Se99a9da8fb9ad85b39733be0207f48f9
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинопремьера
+https://a.pokaz.me/203/index.m3u8?k=1708797400p621i26i851i49S9d4aba8360e7b62c9f03dd06a8e33498
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносвидание
+https://b.pokaz.me/532/index.m3u8?k=1708797401p621i26i851i49Se15283e6fbd880122464289a3af9dc2d
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносемья
+https://b.pokaz.me/531/index.m3u8?k=1708797402p621i26i851i49Sa490e85bae3eca8b42f3e365126aadbd
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносерия
+https://b.pokaz.me/506/index.m3u8?k=1708797781p621i26i851i49Sa68c31e28e969beb6817254117bd5a8d
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинохит
+https://a.pokaz.me/200/index.m3u8?k=1708797811p621i26i851i49Sa9038c36a792096f5eb716651b23e5f5
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Мужское кино
+https://b.pokaz.me/593/index.m3u8?k=1708797410p621i26i851i49Sf41c524986679f53672636e272bc76cd
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Родное кино
+https://a.pokaz.me/179/index.m3u8?k=1708797420p621i26i851i49S9f3d4bdd01c07cd95d6427a284e91c70
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КИНО ТВ
 https://xyoxkgopk6b.a.trbcdn.net/kino/smil:kinotv.smil/chunklist_w1180094844_b4528000_sleng.m3u8
