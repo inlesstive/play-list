@@ -91,8 +91,14 @@ https://stream1.cinerama.uz/1055/index.m3u8?token=JBmLEJgln038eQohK6Vq5QMKA
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Родное кино
 https://stream1.cinerama.uz/1052/index.m3u8?token=jNCSTqeNqEaH4zuu418qVwMKA
 
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Cinema
+https://a5.pokaz.me/104/index.m3u8?k=1708886677p991i85i851i49Sacea8b297ef8aaae9eb939c10d2f5ab6
+
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КИНО ТВ
 https://xyoxkgopk6b.a.trbcdn.net/kino/smil:kinotv.smil/chunklist_w1180094844_b4528000_sleng.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КиноПоказ
+https://tvcdnpotok.com/kinopokaz/index.m3u8?wmsAuthSign=b908552ef4eba91b867a35e203c91d14-1708885759-991i85i851i49
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Amedia 1 HD
 https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
@@ -120,3 +126,9 @@ https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", viju Nature
 https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", Animal Planet
+https://b.pokaz.me/600/index.m3u8?k=1708886955p991i85i851i49Sb59365351e1793O3c5b856bea3594bd6
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", Авто Плюс
+https://a5.pokaz.me/147/index.m3u8?k=1708887113p991i85i851i49S3207f8ec47f080ed4O552c85df46f3c5
