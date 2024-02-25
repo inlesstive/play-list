@@ -95,7 +95,10 @@ https://stream1.cinerama.uz/1052/index.m3u8?token=jNCSTqeNqEaH4zuu418qVwMKA
 https://a5.pokaz.me/104/index.m3u8?k=1708886677p991i85i851i49Sacea8b297ef8aaae9eb939c10d2f5ab6
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КИНО ТВ
-https://xyoxkgopk6b.a.trbcdn.net/kino/smil:kinotv.smil/chunklist_w1180094844_b4528000_sleng.m3u8
+http://94.232.104.237:8000/play/035/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Hollywood
+https://bkm.beetv.kz/btv/live/hls/000000031.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КиноПоказ
 https://tvcdnpotok.com/kinopokaz/index.m3u8?wmsAuthSign=b908552ef4eba91b867a35e203c91d14-1708885759-991i85i851i49
@@ -108,6 +111,18 @@ https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Amedia Hit
 https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", СемейноеКино HD
+https://bkm.beetv.kz/btv/live/hls/000008489.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КиноБоевик HD
+https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", ПремиумКино HD
+https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", МировоеКино HD
+https://bkm.beetv.kz/btv/live/hls/000008488.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", Nat Geo Wild
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
