@@ -80,34 +80,16 @@ https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Индийское кино
-https://a.pokaz.me/128/index.m3u8?k=1708797466p621i26i851i49S316cb94dc15176c08e78b03d6ad6f873
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинокомедия
-https://a.pokaz.me/129/index.m3u8?k=1708797561p621i26i851i49S249107ca86f198ae89ca8a9144f806f6
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киномикс
-https://a.pokaz.me/181/index.m3u8?k=1708797620p621i26i851i49Se99a9da8fb9ad85b39733be0207f48f9
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинопремьера
-https://a.pokaz.me/203/index.m3u8?k=1708797400p621i26i851i49S9d4aba8360e7b62c9f03dd06a8e33498
+https://stream1.cinerama.uz/1060/index.m3u8?token=88EWh9kWxZfFWZdv9QD1_gMKA
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносвидание
-https://b.pokaz.me/532/index.m3u8?k=1708797401p621i26i851i49Se15283e6fbd880122464289a3af9dc2d
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносемья
-https://b.pokaz.me/531/index.m3u8?k=1708797402p621i26i851i49Sa490e85bae3eca8b42f3e365126aadbd
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносерия
-https://b.pokaz.me/506/index.m3u8?k=1708797781p621i26i851i49Sa68c31e28e969beb6817254117bd5a8d
+https://stream1.cinerama.uz/1203/index.m3u8?token=gq-2fK01fxkEf4MR28ph5AMKA
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинохит
-https://a.pokaz.me/200/index.m3u8?k=1708797811p621i26i851i49Sa9038c36a792096f5eb716651b23e5f5
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Мужское кино
-https://b.pokaz.me/593/index.m3u8?k=1708797410p621i26i851i49Sf41c524986679f53672636e272bc76cd
+https://stream1.cinerama.uz/1055/index.m3u8?token=JBmLEJgln038eQohK6Vq5QMKA
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Родное кино
-https://a.pokaz.me/179/index.m3u8?k=1708797420p621i26i851i49S9f3d4bdd01c07cd95d6427a284e91c70
+https://stream1.cinerama.uz/1052/index.m3u8?token=jNCSTqeNqEaH4zuu418qVwMKA
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", КИНО ТВ
 https://xyoxkgopk6b.a.trbcdn.net/kino/smil:kinotv.smil/chunklist_w1180094844_b4528000_sleng.m3u8
