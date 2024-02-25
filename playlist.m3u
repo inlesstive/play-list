@@ -25,6 +25,24 @@ https://player.smotrim.ru/iframe/stream/live_id/21?.m3u8
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", СТС
+https://edge02r.mediavitrina.ru/hls-livef1/ctc/index.m3u8?token=v2.obbMIm-HXkJ0TnB51aj85b9xlkIpZmaiI7aaQDEdfAk.traSGY0jVsEkKIqHhPs8_nmvhDTWB-lxmgS-Nv6i-PM.1709464481.3258e9caa353772239f0608f0568ebc1
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Домашний
+https://dom-live-megafon2.mediavitrina.ru/hls-livef2/ctc-dom/index.m3u8?token_version=v2&hash1=bvxekzJ7XLLMBKPHsdCdPHM_dAan4H5nr7SES2G-6pg&hash2=kD8fvdZr8XixZNy8fCOaFTOK5RBWGJEXanpjybs9NcQ&timestamp=1709465071&random=c0ce81bc2a2b16b6a027efbea4d300a8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=iS6exe0Aem4frWm9Y3rqUg&e=1708946724&scheme=https
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Рен ТВ
+https://edge01r.mediavitrina.ru/hls-livec1/streams/vitrina-hls/rentv_msk_blackout/playlist.m3u8?token=v2.-QyxDPfhAw0vA2odjGFsFSJLUC1C3jLgYlgZMO-Qxiw.Yom1fzfmu-QnGbli-PaDYIiqMlCfzFv7yyGckZtb8Ks.1709465198.d02f857d0490b67b868ea8d8908c19b0
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Ю!
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=S10hoDB47uVQQqgErNiFeg&e=1708946836&scheme=https
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", ТНТ-4
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=IQYhemyZcbZWHBWH7_k9sA&e=1708946878&scheme=https
+
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Перец
 https://tvcdnpotok.com/che/index.m3u8?wmsAuthSign=0860c1f1abcae357ecd3f37db076d2b2-1708803214-621i26i851i49
 
