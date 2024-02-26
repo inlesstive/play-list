@@ -7,9 +7,6 @@ http://188.190.222.48/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", НТВ HD
 https://cdn.ntv.ru/ntv0_hd/rewind-7150.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", МАТЧ
-https://river-7-702.rutube.ru/stream/genetta-322.m9.rutube.ru/2YxYMGAtMTyLw24rxcT_mQ/1709386561/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
-
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=Ej3e-6NrTilew9_POYiwzA&e=1708868401&scheme=https
 
@@ -43,8 +40,11 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=S1
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", ТНТ-4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=IQYhemyZcbZWHBWH7_k9sA&e=1708946878&scheme=https
 
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Че!
+https://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8?token=test
+
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Общероссийские" tvg-logo="", Перец
-https://tvcdnpotok.com/che/index.m3u8?wmsAuthSign=0860c1f1abcae357ecd3f37db076d2b2-1708803214-621i26i851i49
+https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Музыка" tvg-logo="", Музыка первого
 https://bkm.beetv.kz/btv/live/hls/000000204.m3u8
@@ -79,17 +79,29 @@ https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", viju TV1000 Русское
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Индийское кино
-https://stream1.cinerama.uz/1060/index.m3u8?token=88EWh9kWxZfFWZdv9QD1_gMKA
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киномикс HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/7249/index.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносвидание
-https://stream1.cinerama.uz/1203/index.m3u8?token=gq-2fK01fxkEf4MR28ph5AMKA
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинохит HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/7250/index.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Кинохит
-https://stream1.cinerama.uz/1055/index.m3u8?token=JBmLEJgln038eQohK6Vq5QMKA
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносвидание HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/7245/index.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Родное кино
-https://stream1.cinerama.uz/1052/index.m3u8?token=jNCSTqeNqEaH4zuu418qVwMKA
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносемья HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/7244/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Наше Новое Кино HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/19231/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Киносерия HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/19229/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", МужскоеКино HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/10045/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", РодноеКино HD
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/126/index.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Cinema
 https://a5.pokaz.me/104/index.m3u8?k=1708886677p991i85i851i49Sacea8b297ef8aaae9eb939c10d2f5ab6
@@ -124,9 +136,6 @@ https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", МировоеКино HD
 https://bkm.beetv.kz/btv/live/hls/000008488.m3u8
 
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Блокбастер HD
-https://cdn.ru01.spr24.net:4443/20801/index.m3u8?token=ELAhKFFHWX4vd8&remote=94.158.62.192
-
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", Дом кино Премиум HD
 https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 
@@ -135,9 +144,6 @@ https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", START Air
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
-
-#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Кино" tvg-logo="", 4K
-https://s.catcast.tv/content/42935/index.m3u8?token=e7c679bef0de7f00f15dbf9ffb88cb2e
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", Nat Geo Wild
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
@@ -162,3 +168,23 @@ https://b.pokaz.me/600/index.m3u8?k=1708886955p991i85i851i49Sb59365351e1793O3c5b
 
 #EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Познавательные" tvg-logo="", Авто Плюс
 https://a5.pokaz.me/147/index.m3u8?k=1708887113p991i85i851i49S3207f8ec47f080ed4O552c85df46f3c5
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! ТВ
+ttp://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/535/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! Премьер
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/531/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! Арена
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/528/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! Планета
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/123/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! Боец
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/150/index.m3u8
+
+#EXTINF:0 tvg-id="stream-1" tvg-name="Stream 1" group-title="Спорт" tvg-logo="", Матч! Игра
+http://df51e680.edemist.com/iptv/5T9DX8U4ZTURHK/150/index.m3u8
+
+
